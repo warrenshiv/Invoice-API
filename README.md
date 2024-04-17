@@ -10,9 +10,9 @@ This Invoice Management System is built using Django and Django Rest Framework (
 
 ## Technologies
 
-- Python 3.8+
-- Django 3.2+
-- Django Rest Framework 3.12+
+- Python 3.10.12
+- Django 4.2.7
+- Django Rest Framework 3.14.0
 
 ## Setup
 
